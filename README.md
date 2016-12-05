@@ -1,4 +1,5 @@
-# csc137: Verilog
+# csc137: Computer Organization
+Verilog Assignments
 <ul>
   <li><strong>Assignment 1</strong></li>
   <ul>
